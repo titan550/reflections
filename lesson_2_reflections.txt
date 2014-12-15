@@ -1,0 +1,9 @@
+what happens when you initialize a repository? Why do you need to do it?
+if you do this, you get a .git folder in the directory and git initializes
+its files and gets ready for commits.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+you might want to edit only some of the files and put them in a commit
+and you don't want other files to be involved.
