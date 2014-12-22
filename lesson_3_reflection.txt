@@ -14,4 +14,9 @@ you make a branch for an existing project in which you will eventually merge bra
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 it makes it easier to revert while working on a project offlince. in case you mess up, you can
-revert back to a working state. #protection
+evert back to a working state. #protection
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+it is gonna be much more difficult without github
