@@ -20,3 +20,8 @@ evert back to a working state. #protection
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 it is gonna be much more difficult without github
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+this way you can better collaborate and offer changes to the master without directly changing it without prior notice.
